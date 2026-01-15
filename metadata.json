@@ -1,0 +1,7 @@
+{
+  "name": "CrimeGuard Karachi",
+  "description": "A community-driven safety platform for Karachi focusing on real-time crime reporting, hotspots visualization, and emergency SOS with privacy-first data masking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
